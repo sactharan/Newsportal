@@ -1,1 +1,2 @@
-this is my project newsapp
+this is my project newsapp portal php and mysql project
+and javascript
